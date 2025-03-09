@@ -1,67 +1,60 @@
-<h1 align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>  
-  Hey there! I'm Bexruz Berdimurodov  
-</h1>  
+<h2 align="left">Hi 👋! My name is Bexruz and I'm a Frontend Developer from Uzbekistan</h2>
 
-<p align="center">  
-  🚀 Frontend Developer | UI/UX Enthusiast | JavaScript Lover  
-</p>  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BexruzBerdimurodov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BexruzBerdimurodov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🚀 About Me  
-- 👨‍💻 Passionate about crafting seamless **UI/UX**  
-- 🖥️ Skilled in **React, Next.js, Tailwind CSS**  
-- 🎨 Love turning **Figma** designs into functional web applications  
-- 🌱 Always learning **new web technologies & animation libraries**  
-- ⚡ Fun fact: I believe **clean code** makes the world a better place! 😎  
+###
 
----
+<img align="right" height="150" src="https://i.ibb.co/5WMx69VZ/photo-2025-02-12-19-55-50.jpg"  />
 
-### 🛠️ Tech Stack  
-<p align="center">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />  
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-</p>  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+</div>
 
-### 📈 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=bexruzberdimurodov&show_icons=true&theme=tokyonight" width="49%">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bexruzberdimurodov&theme=tokyonight" width="49%">  
-</p>  
+###
 
----
+<div align="left">
+  <a href="https://t.me/BexruzBerdimurodov" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Berdimurodovuz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/berdimurodov.uz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/berdimurodovuz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bexruzBerdimurodov/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 📫 Connect with Me  
-<p align="center">  
-  <a href="https://linkedin.com/in/bexruz" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
-  </a>  
-  <a href="https://twitter.com/bexruz" target="_blank">  
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
-  </a>  
-  <a href="https://yourportfolio.com" target="_blank">  
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />  
-  </a>  
-</p>  
+###
 
----
+<br clear="both">
 
-### 🎵 Now Playing  
-<p align="center">  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" width="50%" />  
-</p>  
+<img src="https://raw.githubusercontent.com/BexruzBerdimurodov/BexruzBerdimurodov/output/snake.svg" alt="Snake animation" />
 
----
-
-<p align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%">  
-</p>  
-
-💬 **Let’s build something awesome together!** 🚀  
+###
